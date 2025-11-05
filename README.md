@@ -90,10 +90,12 @@ drive.mount('/content/drive')
 - Código documentado: Comentarios explicativos
 - Análisis reproducible: Mismos resultados en cada ejecución
 
-🤝 Contribuciones
+🤝 Contribuciones:
+
 Este proyecto fue desarrollado como parte del Challenge Alura Latam de Data Science.
 
-📄 Licencia
+📄 Licencia:
+
 Proyecto educativo desarrollado para fines académicos.
 
 Desarrollado como parte del Alura Latam Data Science Challenge 🚀
