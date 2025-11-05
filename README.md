@@ -89,11 +89,9 @@ Los datos se cargan automáticamente desde:
 - Análisis reproducible: Mismos resultados en cada ejecución
 
 🤝 Contribuciones:
-
-Este proyecto fue desarrollado como parte del Challenge Alura Latam de Data Science.
+- Este proyecto fue desarrollado como parte del Challenge Alura Latam de Data Science.
 
 📄 Licencia:
-
-Proyecto educativo desarrollado para fines académicos.
+- Proyecto educativo desarrollado para fines académicos.
 
 Desarrollado como parte del Alura Latam Data Science Challenge 🚀
