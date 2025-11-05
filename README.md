@@ -1,5 +1,4 @@
-📊 Análisis Alura Store - Decision Estratégica de Ventas
-# AluraStoreChallenge
+# 📊 Análisis Alura Store - Decision Estratégica de Ventas
 Desarrollo de análisis con Python a través de Google Colab.
 
 🎯 Propósito del Proyecto:
