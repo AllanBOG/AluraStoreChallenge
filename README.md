@@ -12,12 +12,6 @@ Este proyecto analiza el desempeño de 4 tiendas (tienda1, tienda2, tienda3, tie
 - Productos más y menos vendidos
 - Costo promedio de envío
 
-🏗️ Estructura del Proyecto
-alura-store-analysis/
-├── analisis_alura_store.ipynb    # Notebook principal con análisis completo
-├── requirements.txt              # Dependencias del proyecto
-└── README.md                     # Este archivo
-
 ⚙️ Instalación y Configuración
 Prerrequisitos
 - Python 3.7+
