@@ -71,9 +71,7 @@ Los datos se cargan automáticamente desde:
 - Estructura: Productos, precios, envíos, fechas, calificaciones
 
 🚀 Cómo Ejecutar
-1. Abrir en Google Colab:
-from google.colab import drive
-drive.mount('/content/drive')
+1. Abrir en Google Colab: Abrir el archivo de este repositorio
 2. Ejecutar análisis completo:
 - Ejecutar todas las celdas en orden
 - Revisar resultados en consola y gráficos
