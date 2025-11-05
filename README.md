@@ -2,7 +2,8 @@
 # AluraStoreChallenge
 Desarrollo de análisis con Python a través de Google Colab.
 
-🎯 Propósito del Proyecto
+🎯 Propósito del Proyecto:
+
 Este proyecto analiza el desempeño de 4 tiendas (tienda1, tienda2, tienda3, tienda4) para identificar cuál debe ser vendida, basándose en un análisis integral de 5 criterios clave establecidos por el señor Juan.
 
 📋 Criterios de Análisis
